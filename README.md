@@ -2,18 +2,9 @@
 
   <img src="assets/profile-banner.png" alt="Jhoren Tuazon" width="100%" />
 
-  <h1>Hi, I'm Jhoren Tuazon</h1>
-
   <p>I build web apps and Android apps, mostly to learn how things work.</p>
 
-  <p>
-    <a href="https://github.com/weimodein">
-      <img src="https://img.shields.io/badge/GitHub-111B7E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/">
-      <img src="https://img.shields.io/badge/LinkedIn-3B5BB8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-3B5BB8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
