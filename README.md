@@ -2,7 +2,7 @@
 
   <img src="assets/profile-banner.png" alt="Jhoren Tuazon" width="100%" />
 
-  <h1>Hi, I'm Jhoren 👋</h1>
+  <h1>Hi, I'm Jhoren Tuazon</h1>
 
   <p>I build web apps and Android apps, mostly to learn how things work.</p>
 
