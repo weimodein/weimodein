@@ -1,8 +1,10 @@
-&#x20;\<div align="center">
-
-&#x20; \<img src="assets/profile-banner.png" alt="Jhoren Tuazon" width="100%" />
-
-&#x20; \<br/>
+<div align="center">
+  <img
+    src="./assets/profile-banner.png"
+    alt="Jhoren Tuazon"
+    width="100%"
+  />
+</div>
 
 # JHOREN TUAZON
 
