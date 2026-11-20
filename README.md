@@ -1,68 +1,276 @@
-<div align="center">
+ <div align="center">
 
   <img src="assets/profile-banner.png" alt="Jhoren Tuazon" width="100%" />
 
-  <p>I build web apps and Android apps, mostly to learn how things work.</p>
+  <br/>
 
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-3B5BB8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  # JHOREN TUAZON
+
+  `DEVELOPER IN PROGRESS // BUILDING WITH INTENTION`
+
+  **Web Development · Android Development · BSIT Student**
+
+  <br/>
+
+  `> observe.understand.build.repeat.`
+
+  [LINKEDIN](https://www.linkedin.com/) · [PORTFOLIO](#) · [CONTACT](#)
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/LOCATION-Philippines-172554?style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-Currently%20Learning-1D4ED8?style=flat-square" />
+  <img src="https://img.shields.io/badge/MINDSET-Learn%20By%20Building-172554?style=flat-square" />
 
 </div>
 
 ---
 
-## About me
+<div align="center">
 
-I'm a student developer working on full-stack web and Android development. Most of what I know I picked up by building something, breaking it, and figuring out why. Lately I've been getting into machine learning, especially on mobile.
+  `01 — IDENTITY / SYSTEM PROFILE`
 
-## Tech I use
+</div>
 
-**Web**
+### A little about how I build.
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-3B5BB8?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-5279D0?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-6D91D9?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-3B5BB8?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-3152A6?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-243D91?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
+I'm a student developer interested in understanding how software works, from the interface people interact with to the systems running behind it.
 
-**Mobile and languages**
+I learn by building, experimenting, making mistakes, and figuring things out myself. My current focus is full-stack web development, while keeping my experience in Android development and machine learning growing.
 
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-3B5BB8?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-5279D0?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3152A6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+```yaml
+identity:
+  name: Jhoren Tuazon
+  occupation: Student Developer
+  location: Philippines
 
-**Databases and tools**
+interests:
+  - Full-Stack Development
+  - Android Development
+  - Machine Learning
+  - Software Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-3B5BB8?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-5279D0?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3152A6?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Git-3B5BB8?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-5279D0?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+philosophy:
+  - Understand before implementing
+  - Build before automating
+  - Improve through iteration
 
-## Projects
+current_mission: Become a better engineer.
+```
 
-**SIGLA**: An Android app that recognizes Filipino Sign Language gestures and turns them into text and speech, so signers and non-signers can talk more easily.
-<br/>Kotlin · CameraX · MediaPipe · TensorFlow Lite · FastAPI
+---
 
-**Mona Mayhem**: A retro arcade game where two people's GitHub contribution graphs fight each other. I made it at Microsoft Campus Club PUP DevDays, pairing with GitHub Copilot.
-<br/>Astro · TypeScript · GitHub API
+<div align="center">
 
-**JavaScript practice projects**: Small projects I built to get comfortable with the basics: DOM manipulation, events, form validation.
-<br/>HTML · CSS · JavaScript
+  `02 — ARSENAL / TECHNOLOGIES`
 
-## Right now I'm
+</div>
 
-- getting better at React
-- learning backend work with Node.js and Express
-- practicing database design with PostgreSQL
-- figuring out how to actually deploy things
+### Tools in my environment.
 
-I use AI tools when I code, but I make sure I understand what ends up in my code.
+<div align="center">
 
-Feel free to reach out if you want to work on something together.
+  **01. WEB**
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&perline=6" />
+
+  <br/>
+
+  **02. MOBILE & LANGUAGES**
+
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python&perline=3" />
+
+  <br/>
+
+  **03. DATA & DEVELOPMENT TOOLS**
+
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode&perline=6" />
+
+</div>
+
+```txt
+[ FRONTEND ]    HTML / CSS / JavaScript / React
+[ BACKEND  ]    Node.js / Express.js
+[ MOBILE   ]    Kotlin / Android
+[ DATABASE ]    MySQL / PostgreSQL / Supabase
+[ LANGUAGE ]    Java / Python
+[ TOOLING  ]    Git / GitHub / VS Code
+[ EXPLORING]    Machine Learning / AI-assisted Development
+```
+
+---
+
+<div align="center">
+
+  `03 — DEPLOYMENTS / PROJECT ARCHIVE`
+
+  *A collection of things I've built and experiments I've worked on.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+  **01 // SIGLA**
+
+  <sub>ANDROID · MACHINE LEARNING</sub>
+
+  Filipino Sign Language translation application that recognizes gestures and converts them into text and speech.
+
+  `Kotlin` `CameraX` `MediaPipe` `TensorFlow Lite` `FastAPI`
+
+  <br/>
+
+  <badge color="success">COMPLETED PROJECT</badge>
+
+</td>
+<td width="50%" valign="top">
+
+  **02 // MONA MAYHEM**
+
+  <sub>WEB · EXPERIMENTAL</sub>
+
+  A retro arcade game where two GitHub contribution graphs battle against each other.
+
+  `Astro` `TypeScript` `GitHub API`
+
+  <br/>
+
+  <badge color="success">BUILT AT PUP DEVDAYS</badge>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+  **03 // JAVASCRIPT LAB**
+
+  <sub>WEB · FUNDAMENTALS</sub>
+
+  Small applications and coding exercises exploring JavaScript fundamentals, DOM manipulation, events, and validation.
+
+  `HTML` `CSS` `JavaScript`
+
+  <br/>
+
+  <badge color="success">ONGOING PRACTICE</badge>
+
+</td>
+<td width="50%" valign="top">
+
+  **04 // NEXT DEPLOYMENT**
+
+  <sub>PROJECT SLOT · RESERVED</sub>
+
+  Something new is being worked on.
+
+  More ideas, experiments, and practical applications are on the way.
+
+  <br/>
+
+  <badge color="info">SOON</badge>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+  `04 — WORKSPACE / CURRENT OPERATIONS`
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**LEARNING**
+
+```txt
+> react
+> node.js
+> express
+> postgresql
+```
+
+</td>
+<td width="33%" valign="top">
+
+**BUILDING**
+
+```txt
+> interfaces
+> web apps
+> js projects
+> experiments
+```
+
+</td>
+<td width="33%" valign="top">
+
+**EXPLORING**
+
+```txt
+> machine learning
+> deployment
+> automation
+> AI workflows
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+  `05 — SYSTEM METRICS / GITHUB ACTIVITY`
+
+  <img src="https://github-readme-stats.vercel.app/api?username=weimodein&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="90%" alt="GitHub Statistics" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=weimodein&theme=github-dark-blue&hide_border=true&border_radius=8" width="90%" alt="GitHub Contribution Streak" />
+
+  <br/>
+
+  `small commits. consistent progress.`
+
+</div>
+
+---
+
+<div align="center">
+
+  `06 — CHANGELOG / DEVELOPMENT LOG`
+
+</div>
+
+```diff
++ Learning React through hands-on projects
++ Strengthening JavaScript fundamentals
++ Exploring backend development with Node.js
++ Practicing relational database design
++ Understanding deployment and infrastructure
+
+! Still learning. Still experimenting.
+! Always questioning how things work.
+```
+
+---
+
+<div align="center">
+
+  ### END OF FILE.
+
+  `// There is always something more to build.`
+
+  **BUILD WITH PURPOSE. LEARN WITH CURIOSITY.**
+
+  <sub>Jhoren Tuazon · Developer Fieldnotes · 2026</sub>
+
+</div>
