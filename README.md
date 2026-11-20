@@ -1,42 +1,42 @@
- <div align="center">
+&#x20;\<div align="center">
 
-  <img src="assets/profile-banner.png" alt="Jhoren Tuazon" width="100%" />
+&#x20; \<img src="assets/profile-banner.png" alt="Jhoren Tuazon" width="100%" />
 
-  <br/>
+&#x20; \<br/>
 
-  # JHOREN TUAZON
+# JHOREN TUAZON
 
-  `DEVELOPER IN PROGRESS // BUILDING WITH INTENTION`
+**Web Developer · Android Developer · BSIT Student**
 
-  **Web Development · Android Development · BSIT Student**
+`DEVELOPER IN PROGRESS // BUILDING WITH INTENTION`
 
-  <br/>
+&#x20; \<br/>
 
-  `> observe.understand.build.repeat.`
+`> observe.understand.build.repeat.`
 
-  [LINKEDIN](https://www.linkedin.com/) · [PORTFOLIO](#) · [CONTACT](#)
+[PORTFOLIO](#) · [LINKEDIN](https://www.linkedin.com/) · [CONTACT](#)
 
-  <br/>
+&#x20; \<br/>
 
-  <img src="https://img.shields.io/badge/LOCATION-Philippines-172554?style=flat-square" />
-  <img src="https://img.shields.io/badge/STATUS-Currently%20Learning-1D4ED8?style=flat-square" />
-  <img src="https://img.shields.io/badge/MINDSET-Learn%20By%20Building-172554?style=flat-square" />
+&#x20; \<img src="[https://img.shields.io/badge/LOCATION-Philippines-172554?style=flat-square](https://img.shields.io/badge/LOCATION-Philippines-172554?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/STATUS-Currently%20Learning-1D4ED8?style=flat-square](https://img.shields.io/badge/STATUS-Currently%20Learning-1D4ED8?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/MINDSET-Learn%20By%20Building-172554?style=flat-square](https://img.shields.io/badge/MINDSET-Learn%20By%20Building-172554?style=flat-square)" />
 
-</div>
+\</div>
 
 ---
 
-<div align="center">
+\<div align="center">
 
-  `01 — IDENTITY / SYSTEM PROFILE`
+`01 — IDENTITY / SYSTEM PROFILE`
 
-</div>
+\</div>
 
 ### A little about how I build.
 
-I'm a student developer interested in understanding how software works, from the interface people interact with to the systems running behind it.
+I'm a student developer interested in understanding how software works, from the interfaces people interact with to the systems running behind them.
 
-I learn by building, experimenting, making mistakes, and figuring things out myself. My current focus is full-stack web development, while keeping my experience in Android development and machine learning growing.
+I learn by building, experimenting, making mistakes, and figuring things out myself. My current focus is full-stack web development, while continuing to explore Android development and machine learning.
 
 ```yaml
 identity:
@@ -60,38 +60,38 @@ current_mission: Become a better engineer.
 
 ---
 
-<div align="center">
+\<div align="center">
 
-  `02 — ARSENAL / TECHNOLOGIES`
+`02 — ARSENAL / TECHNOLOGIES`
 
-</div>
+\</div>
 
 ### Tools in my environment.
 
-<div align="center">
+\<div align="center">
 
-  **01. WEB**
+**01. WEB DEVELOPMENT**
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&perline=6" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&perline=6](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express\&perline=6)" alt="Web Development Technologies" />
 
-  <br/>
+\<br/>\<br/>
 
-  **02. MOBILE & LANGUAGES**
+**02. MOBILE & PROGRAMMING LANGUAGES**
 
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python&perline=3" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=kotlin,java,python&perline=3](https://skillicons.dev/icons?i=kotlin,java,python\&perline=3)" alt="Mobile and Programming Technologies" />
 
-  <br/>
+\<br/>\<br/>
 
-  **03. DATA & DEVELOPMENT TOOLS**
+**03. DATABASES & DEVELOPMENT TOOLS**
 
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode&perline=6" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode&perline=6](https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode\&perline=6)" alt="Databases and Development Tools" />
 
-</div>
+\</div>
 
 ```txt
 [ FRONTEND ]    HTML / CSS / JavaScript / React
 [ BACKEND  ]    Node.js / Express.js
-[ MOBILE   ]    Kotlin / Android
+[ MOBILE   ]    Kotlin / Android Development
 [ DATABASE ]    MySQL / PostgreSQL / Supabase
 [ LANGUAGE ]    Java / Python
 [ TOOLING  ]    Git / GitHub / VS Code
@@ -100,92 +100,59 @@ current_mission: Become a better engineer.
 
 ---
 
-<div align="center">
+\<div align="center">
 
-  `03 — DEPLOYMENTS / PROJECT ARCHIVE`
+`03 — NOTABLE WORK / FEATURED PROJECT`
 
-  *A collection of things I've built and experiments I've worked on.*
+*A closer look at a project I've worked on.*
 
-</div>
+\</div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+\<table> \<tr> \<td width="100%" valign="top">
 
-  **01 // SIGLA**
+### SIGLA
 
-  <sub>ANDROID · MACHINE LEARNING</sub>
+**Filipino Sign Language Translation Application**
 
-  Filipino Sign Language translation application that recognizes gestures and converts them into text and speech.
+An Android application designed to recognize Filipino Sign Language (FSL) gestures and translate them into English text and speech, helping bridge communication between signers and non-signers.
 
-  `Kotlin` `CameraX` `MediaPipe` `TensorFlow Lite` `FastAPI`
+\<br/>
 
-  <br/>
+`Kotlin` `CameraX` `MediaPipe` `TensorFlow Lite` `FastAPI` `React` `PostgreSQL`
 
-  <badge color="success">COMPLETED PROJECT</badge>
+\<br/>
 
-</td>
-<td width="50%" valign="top">
+**Key Features**
 
-  **02 // MONA MAYHEM**
+- Real-time FSL gesture recognition
+- Gesture-to-text translation
+- Offline voice output
+- Offline-first Android application
+- Web-based administration platform
 
-  <sub>WEB · EXPERIMENTAL</sub>
+\<br/>
 
-  A retro arcade game where two GitHub contribution graphs battle against each other.
+\<sub>CAPSTONE PROJECT · ANDROID · MACHINE LEARNING\</sub>
 
-  `Astro` `TypeScript` `GitHub API`
+\</td> \</tr> \</table>
 
-  <br/>
+\<div align="center">
 
-  <badge color="success">BUILT AT PUP DEVDAYS</badge>
+`// More projects will be featured when they're ready.`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-  **03 // JAVASCRIPT LAB**
-
-  <sub>WEB · FUNDAMENTALS</sub>
-
-  Small applications and coding exercises exploring JavaScript fundamentals, DOM manipulation, events, and validation.
-
-  `HTML` `CSS` `JavaScript`
-
-  <br/>
-
-  <badge color="success">ONGOING PRACTICE</badge>
-
-</td>
-<td width="50%" valign="top">
-
-  **04 // NEXT DEPLOYMENT**
-
-  <sub>PROJECT SLOT · RESERVED</sub>
-
-  Something new is being worked on.
-
-  More ideas, experiments, and practical applications are on the way.
-
-  <br/>
-
-  <badge color="info">SOON</badge>
-
-</td>
-</tr>
-</table>
+\</div>
 
 ---
 
-<div align="center">
+\<div align="center">
 
-  `04 — WORKSPACE / CURRENT OPERATIONS`
+`04 — WORKSPACE / CURRENT OPERATIONS`
 
-</div>
+\</div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+\<table>
+\<tr>
+\<td width="33%" valign="top">
 
 **LEARNING**
 
@@ -196,8 +163,8 @@ current_mission: Become a better engineer.
 > postgresql
 ```
 
-</td>
-<td width="33%" valign="top">
+\</td>
+\<td width="33%" valign="top">
 
 **BUILDING**
 
@@ -208,8 +175,8 @@ current_mission: Become a better engineer.
 > experiments
 ```
 
-</td>
-<td width="33%" valign="top">
+\</td>
+\<td width="33%" valign="top">
 
 **EXPLORING**
 
@@ -220,35 +187,37 @@ current_mission: Become a better engineer.
 > AI workflows
 ```
 
-</td>
-</tr>
-</table>
+\</td> \</tr> \</table>
+
+> Turning fundamentals into practical skills, one project at a time.
 
 ---
 
-<div align="center">
+\<div align="center">
 
-  `05 — SYSTEM METRICS / GITHUB ACTIVITY`
+`05 — SYSTEM METRICS / GITHUB ACTIVITY`
 
-  <img src="https://github-readme-stats.vercel.app/api?username=weimodein&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="90%" alt="GitHub Statistics" />
+&#x20; \<br/>
 
-  <br/>
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=weimodein&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=weimodein\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=github)" width="90%" alt="GitHub Statistics" />
 
-  <img src="https://streak-stats.demolab.com?user=weimodein&theme=github-dark-blue&hide_border=true&border_radius=8" width="90%" alt="GitHub Contribution Streak" />
+\<br/>\<br/>
 
-  <br/>
+&#x20; \<img src="[https://streak-stats.demolab.com?user=weimodein&theme=github-dark-blue&hide_border=true&border_radius=8](https://streak-stats.demolab.com?user=weimodein\&theme=github-dark-blue\&hide_border=true\&border_radius=8)" width="90%" alt="GitHub Contribution Streak" />
 
-  `small commits. consistent progress.`
+\<br/>\<br/>
 
-</div>
+`small commits. consistent progress.`
+
+\</div>
 
 ---
 
-<div align="center">
+\<div align="center">
 
-  `06 — CHANGELOG / DEVELOPMENT LOG`
+`06 — CHANGELOG / DEVELOPMENT LOG`
 
-</div>
+\</div>
 
 ```diff
 + Learning React through hands-on projects
@@ -263,14 +232,16 @@ current_mission: Become a better engineer.
 
 ---
 
-<div align="center">
+\<div align="center">
 
-  ### END OF FILE.
+### END OF FILE.
 
-  `// There is always something more to build.`
+`// There is always something more to build.`
 
-  **BUILD WITH PURPOSE. LEARN WITH CURIOSITY.**
+**BUILD WITH PURPOSE. LEARN WITH CURIOSITY.**
 
-  <sub>Jhoren Tuazon · Developer Fieldnotes · 2026</sub>
+&#x20; \<br/>
 
-</div>
+\<sub>Jhoren Tuazon · Developer Fieldnotes · 2026\</sub>
+
+\</div>
