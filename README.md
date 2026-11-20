@@ -1,38 +1,36 @@
-<div align="center">
-  <img
-    src="./assets/profile-banner.png"
-    alt="Jhoren Tuazon"
-    width="100%"
-  />
+ <div align="center">
+
+  <img src="./assets/profile-banner.png" alt="Jhoren Tuazon" width="100%" />
+
+  <br/>
+
+  # JHOREN TUAZON
+
+  **Web Developer · Android Developer · BSIT Student**
+
+  `DEVELOPER IN PROGRESS // BUILDING WITH INTENTION`
+
+  <br/>
+
+  `> observe.understand.build.repeat.`
+
+  [PORTFOLIO](#) · [LINKEDIN](https://www.linkedin.com/) · [CONTACT](#)
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/LOCATION-Philippines-172554?style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-Currently%20Learning-1D4ED8?style=flat-square" />
+  <img src="https://img.shields.io/badge/MINDSET-Learn%20By%20Building-172554?style=flat-square" />
+
 </div>
-
-# JHOREN TUAZON
-
-**Web Developer · Android Developer · BSIT Student**
-
-`DEVELOPER IN PROGRESS // BUILDING WITH INTENTION`
-
-&#x20; \<br/>
-
-`> observe.understand.build.repeat.`
-
-[PORTFOLIO](#) · [LINKEDIN](https://www.linkedin.com/) · [CONTACT](#)
-
-&#x20; \<br/>
-
-&#x20; \<img src="[https://img.shields.io/badge/LOCATION-Philippines-172554?style=flat-square](https://img.shields.io/badge/LOCATION-Philippines-172554?style=flat-square)" />
-&#x20; \<img src="[https://img.shields.io/badge/STATUS-Currently%20Learning-1D4ED8?style=flat-square](https://img.shields.io/badge/STATUS-Currently%20Learning-1D4ED8?style=flat-square)" />
-&#x20; \<img src="[https://img.shields.io/badge/MINDSET-Learn%20By%20Building-172554?style=flat-square](https://img.shields.io/badge/MINDSET-Learn%20By%20Building-172554?style=flat-square)" />
-
-\</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
-`01 — IDENTITY / SYSTEM PROFILE`
+  `01 — IDENTITY / SYSTEM PROFILE`
 
-\</div>
+</div>
 
 ### A little about how I build.
 
@@ -62,33 +60,33 @@ current_mission: Become a better engineer.
 
 ---
 
-\<div align="center">
+<div align="center">
 
-`02 — ARSENAL / TECHNOLOGIES`
+  `02 — ARSENAL / TECHNOLOGIES`
 
-\</div>
+</div>
 
 ### Tools in my environment.
 
-\<div align="center">
+<div align="center">
 
-**01. WEB DEVELOPMENT**
+  **01. WEB DEVELOPMENT**
 
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&perline=6](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express\&perline=6)" alt="Web Development Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&perline=6" alt="Web Development Technologies" />
 
-\<br/>\<br/>
+  <br/><br/>
 
-**02. MOBILE & PROGRAMMING LANGUAGES**
+  **02. MOBILE & PROGRAMMING LANGUAGES**
 
-&#x20; \<img src="[https://skillicons.dev/icons?i=kotlin,java,python&perline=3](https://skillicons.dev/icons?i=kotlin,java,python\&perline=3)" alt="Mobile and Programming Technologies" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python&perline=3" alt="Mobile and Programming Technologies" />
 
-\<br/>\<br/>
+  <br/><br/>
 
-**03. DATABASES & DEVELOPMENT TOOLS**
+  **03. DATABASES & DEVELOPMENT TOOLS**
 
-&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode&perline=6](https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode\&perline=6)" alt="Databases and Development Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode&perline=6" alt="Databases and Development Tools" />
 
-\</div>
+</div>
 
 ```txt
 [ FRONTEND ]    HTML / CSS / JavaScript / React
@@ -102,15 +100,17 @@ current_mission: Become a better engineer.
 
 ---
 
-\<div align="center">
+<div align="center">
 
-`03 — NOTABLE WORK / FEATURED PROJECT`
+  `03 — NOTABLE WORK / FEATURED PROJECT`
 
-*A closer look at a project I've worked on.*
+  *A closer look at a project I've worked on.*
 
-\</div>
+</div>
 
-\<table> \<tr> \<td width="100%" valign="top">
+<table>
+<tr>
+<td width="100%" valign="top">
 
 ### SIGLA
 
@@ -118,11 +118,11 @@ current_mission: Become a better engineer.
 
 An Android application designed to recognize Filipino Sign Language (FSL) gestures and translate them into English text and speech, helping bridge communication between signers and non-signers.
 
-\<br/>
+<br/>
 
 `Kotlin` `CameraX` `MediaPipe` `TensorFlow Lite` `FastAPI` `React` `PostgreSQL`
 
-\<br/>
+<br/>
 
 **Key Features**
 
@@ -132,29 +132,31 @@ An Android application designed to recognize Filipino Sign Language (FSL) gestur
 - Offline-first Android application
 - Web-based administration platform
 
-\<br/>
+<br/>
 
-\<sub>CAPSTONE PROJECT · ANDROID · MACHINE LEARNING\</sub>
+<sub>CAPSTONE PROJECT · ANDROID · MACHINE LEARNING</sub>
 
-\</td> \</tr> \</table>
+</td>
+</tr>
+</table>
 
-\<div align="center">
+<div align="center">
 
-`// More projects will be featured when they're ready.`
+  `// More projects will be featured when they're ready.`
 
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
-`04 — WORKSPACE / CURRENT OPERATIONS`
+  `04 — WORKSPACE / CURRENT OPERATIONS`
 
-\</div>
+</div>
 
-\<table>
-\<tr>
-\<td width="33%" valign="top">
+<table>
+<tr>
+<td width="33%" valign="top">
 
 **LEARNING**
 
@@ -165,8 +167,8 @@ An Android application designed to recognize Filipino Sign Language (FSL) gestur
 > postgresql
 ```
 
-\</td>
-\<td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
 
 **BUILDING**
 
@@ -177,8 +179,8 @@ An Android application designed to recognize Filipino Sign Language (FSL) gestur
 > experiments
 ```
 
-\</td>
-\<td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
 
 **EXPLORING**
 
@@ -189,37 +191,39 @@ An Android application designed to recognize Filipino Sign Language (FSL) gestur
 > AI workflows
 ```
 
-\</td> \</tr> \</table>
+</td>
+</tr>
+</table>
 
 > Turning fundamentals into practical skills, one project at a time.
 
 ---
 
-\<div align="center">
+<div align="center">
 
-`05 — SYSTEM METRICS / GITHUB ACTIVITY`
+  `05 — SYSTEM METRICS / GITHUB ACTIVITY`
 
-&#x20; \<br/>
+  <br/>
 
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=weimodein&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=weimodein\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=github)" width="90%" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=weimodein&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="90%" alt="GitHub Statistics" />
 
-\<br/>\<br/>
+  <br/><br/>
 
-&#x20; \<img src="[https://streak-stats.demolab.com?user=weimodein&theme=github-dark-blue&hide_border=true&border_radius=8](https://streak-stats.demolab.com?user=weimodein\&theme=github-dark-blue\&hide_border=true\&border_radius=8)" width="90%" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=weimodein&theme=github-dark-blue&hide_border=true&border_radius=8" width="90%" alt="GitHub Contribution Streak" />
 
-\<br/>\<br/>
+  <br/><br/>
 
-`small commits. consistent progress.`
+  `small commits. consistent progress.`
 
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
-`06 — CHANGELOG / DEVELOPMENT LOG`
+  `06 — CHANGELOG / DEVELOPMENT LOG`
 
-\</div>
+</div>
 
 ```diff
 + Learning React through hands-on projects
@@ -234,16 +238,16 @@ An Android application designed to recognize Filipino Sign Language (FSL) gestur
 
 ---
 
-\<div align="center">
+<div align="center">
 
-### END OF FILE.
+  ### END OF FILE.
 
-`// There is always something more to build.`
+  `// There is always something more to build.`
 
-**BUILD WITH PURPOSE. LEARN WITH CURIOSITY.**
+  **BUILD WITH PURPOSE. LEARN WITH CURIOSITY.**
 
-&#x20; \<br/>
+  <br/>
 
-\<sub>Jhoren Tuazon · Developer Fieldnotes · 2026\</sub>
+  <sub>Jhoren Tuazon · Developer Fieldnotes · 2026</sub>
 
-\</div>
+</div>
